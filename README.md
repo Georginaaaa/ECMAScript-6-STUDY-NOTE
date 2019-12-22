@@ -13,6 +13,11 @@ ES6的课后作业
 ## 变量的解构赋值
 ![变量的解构赋值](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/variable.png)
 
-## 字符串的扩展
-![字符串的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/string.png)
+## 字符串的新增方法
+![字符串的新增方法](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/string.png)
 
+## 数值的扩展
+![数值的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/num.png)
+
+## 函数的扩展
+![函数的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/function.png)
