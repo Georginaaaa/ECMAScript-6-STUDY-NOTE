@@ -8,4 +8,11 @@ ES6的课后作业
 ![let声明变量](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/let.png)
 
 ## const声明常量
-![const声明常量]()
+![const声明常量](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/const.png)
+
+## 变量的解构赋值
+![变量的解构赋值](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/variable.png)
+
+## 字符串的扩展
+![字符串的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/string.png)
+
