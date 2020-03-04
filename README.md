@@ -1,4 +1,4 @@
-## ES6-Analyze
+## ES6-Sum
 ES6的课后作业
 * ES6的学习与思考笔记
 * 基于webpack打包
@@ -21,3 +21,9 @@ ES6的课后作业
 
 ## 函数的扩展
 ![函数的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/function.png)
+
+## 数组的扩展
+![数组的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/array.png)
+
+## 对象的扩展
+![数组的扩展](https://github.com/Georginaaaa/ES6-Analyze/blob/master/note/object.png)
